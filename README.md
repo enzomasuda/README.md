@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/enzomasuda/2126209c09f0b5d698d8cdb4b94d860b/raw/9f7a0bb84413ff2948cc9e7652cf62be8a622eb2/cardProfile.svg"/>
 
-<h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Enzo Masuda</h1>
+<h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Enzo </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzomasuda&color=yellow" alt="Profile views" /> </p>
 
@@ -46,7 +46,7 @@
 
 <br><br>
 
-## 📲 Contact
+## 📲 Social
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/enzo-masuda" target="_blank">
@@ -61,6 +61,6 @@
 </p>
 
 <br>
-
+<!--
 **enzomasuda/enzomasuda** is a  _special_  repository because its `README.md` (this file) appears on my GitHub profile.
-
+-->
