@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently studying analysis and development of systems at [Estácio](https://estacio.br/)
 
-- 🚀 I'm also learning web programming at [Rocketseat](https://github.com/Rocketseat)
+- 👨🏻‍💻 I'm also learning programming at [Alura](https://www.alura.com.br)
 
 - 💬 Ask me about: **JavaScript, HTML, CSS** _...and more, soon_
 
-- 📚 Fun fact: **Nutricionist 👨‍⚕️**
+- 📚 Fun fact: **I'm a Nutricionist 💪🏼**
 
 - 🌎 Brazilian
 
