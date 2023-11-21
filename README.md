@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 I'm also learning programming at [Alura](https://www.alura.com.br)
 
-- 💬 Ask me about: **JavaScript, HTML, CSS** _...and more, soon_
+- 💬 Ask me about: **JavaScript, HTML, CSS, Bootsrap** _...and more, soon_
 
 - 📚 Fun fact: **I'm a Nutricionist 💪🏼**
 
@@ -51,9 +51,6 @@
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/enzo-masuda" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Enzo_Masuda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/Enzo_Masuda" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Enzo_Masuda-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="https://instagram.com/enzomasuda" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Enzo_Masuda-05122A?style=flat&logo=instagram" alt="instagram"/>
