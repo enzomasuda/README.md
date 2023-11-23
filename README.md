@@ -55,6 +55,9 @@
   <a href="https://instagram.com/enzomasuda" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Enzo_Masuda-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
+  <a href="https://twitter.com/Enzo_Masuda" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Enzo_Masuda-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
 </p>
 
 <br>
